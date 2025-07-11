@@ -6,9 +6,9 @@ If you're looking for the LuxPower integration for Home Assistant, please reach 
 
 To minimize spam, my email address is:
 
-<my GitHub username> @hotmail.com
+MYUSSERNAME ON GIHUB  @hotmail.com
 
-(Replace <my GitHub username> with my actual username.)
+(Replace MYUSSERNAME ON GIHUB with my actual username.)
 
 Once you contact me, I'll provide you with an MS Forms link. After completing that, I'll grant you access to my private GitHub repository.
 
