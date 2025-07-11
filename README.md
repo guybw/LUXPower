@@ -6,7 +6,7 @@ If you're looking for the LuxPower integration for Home Assistant, please reach 
 
 To minimize spam, my email address is:
 
-<my GitHub username @hotmail.com
+<my GitHub username> @hotmail.com
 
 (Replace <my GitHub username> with my actual username.)
 
