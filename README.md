@@ -16,9 +16,15 @@ Once you contact me, I'll provide you with an MS Forms link. After completing th
 
 FAQ
 
-Q: I can't access https://github.com/guybw/LuxPython_DEVA: Ensure you're logged into GitHub with the account provided when you received the invitation.
+Q: I can't access https://github.com/guybw/LuxPython_DEV 
 
-Q: Something broke, or it stopped working after an update.A: You're likely running an outdated version. Please update to the latest stable release.
+A: Ensure you're logged into GitHub with the account provided when you received the invitation.
 
-Q: Is this project still active in 2025?A: Absolutely! With over 1000 installations, the project is very much alive and actively maintained! 🎉
+Q: Something broke, or it stopped working after an update.
+
+A: You're likely running an outdated version. Please update to the latest stable release.
+
+Q: Is this project still active in 2025?
+
+A: Absolutely! With over 1000 installations, the project is very much alive and actively maintained! 🎉
 
